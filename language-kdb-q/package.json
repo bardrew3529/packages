@@ -1,0 +1,63 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "C:\\Users\\BARROW~1.AND\\AppData\\Local\\Temp\\d-11736-6216-uekest\\package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "C:\\Users\\BARROW~1.AND\\AppData\\Local\\Temp\\d-11736-6216-uekest\\package.tgz",
+        "spec": "C:\\Users\\BARROW~1.AND\\AppData\\Local\\Temp\\d-11736-6216-uekest\\package.tgz",
+        "type": "local"
+      },
+      "C:\\Users\\BARROW~1.AND\\AppData\\Local\\Temp\\apm-install-dir-11736-6216-1lu1acl"
+    ]
+  ],
+  "_from": "..\\d-11736-6216-uekest\\package.tgz",
+  "_id": "language-kdb-q@0.3.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/language-kdb-q",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "C:\\Users\\BARROW~1.AND\\AppData\\Local\\Temp\\d-11736-6216-uekest\\package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "C:\\Users\\BARROW~1.AND\\AppData\\Local\\Temp\\d-11736-6216-uekest\\package.tgz",
+    "spec": "C:\\Users\\BARROW~1.AND\\AppData\\Local\\Temp\\d-11736-6216-uekest\\package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:..\\d-11736-6216-uekest\\package.tgz",
+  "_shasum": "70916ca455b65b99b2f6a4d6b90485c5a9e9a329",
+  "_shrinkwrap": null,
+  "_spec": "C:\\Users\\BARROW~1.AND\\AppData\\Local\\Temp\\d-11736-6216-uekest\\package.tgz",
+  "_where": "C:\\Users\\BARROW~1.AND\\AppData\\Local\\Temp\\apm-install-dir-11736-6216-1lu1acl",
+  "bugs": {
+    "url": "https://github.com/quintanar401/language-kdb-q/issues"
+  },
+  "dependencies": {
+    "underscore-plus": "1.x"
+  },
+  "description": "Language support for Q and K languages of KDB+",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/quintanar401/language-kdb-q#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "./lib/kdb-q",
+  "name": "language-kdb-q",
+  "optionalDependencies": {},
+  "readme": "# kdb-q package\n\nQ and K languages of KDB+ Database support for ATOM.",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quintanar401/language-kdb-q.git"
+  },
+  "version": "0.3.1"
+}
