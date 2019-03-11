@@ -1,0 +1,41 @@
+{
+  "_from": "https://www.atom.io/api/packages/lucario/versions/2.2.0/tarball",
+  "_id": "Lucario@2.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-OrhE/cIeKc6Ypwg9ButkEJaPSS+IaD4Bs383IJQSPK+JuNoYqvOO9bfHMMiw4FCsbQ8mcSY9asJv2pKQCtyHDA==",
+  "_location": "/Lucario",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/lucario/versions/2.2.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/lucario/versions/2.2.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/lucario/versions/2.2.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/lucario/versions/2.2.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/lucario/versions/2.2.0/tarball",
+  "_shasum": "ceb40ee5a97cef646a579066ad0c4ae69ab889d4",
+  "_spec": "https://www.atom.io/api/packages/lucario/versions/2.2.0/tarball",
+  "_where": "C:\\Users\\BARROW~1.AND\\AppData\\Local\\Temp\\apm-install-dir-119211-13460-6q9wah.axiot",
+  "bugs": {
+    "url": "https://github.com/raphamorim/lucario/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "The best colorful flat theme ever.",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/raphamorim/lucario#readme",
+  "license": "MIT",
+  "name": "Lucario",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphamorim/lucario.git"
+  },
+  "theme": "syntax",
+  "version": "2.2.0"
+}
